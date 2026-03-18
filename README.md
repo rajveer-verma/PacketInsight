@@ -93,9 +93,3 @@ make
 * Performance optimization for large-scale traffic
 
 ---
-
-## 👨‍💻 Author
-
-**Rajveer Verma**
-
-* GitHub: https://github.com/rajveer-verma
